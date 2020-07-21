@@ -10,6 +10,7 @@ public class Application {
 //changed here********************8
 
 		SpringApplication.run(Application.class, args);
+           int a =100;
 	}
 
 }
