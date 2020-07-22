@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+ Application a = new Application();
 
 priavte static final String url="htps://localhost:8081/app";
 
@@ -14,5 +15,11 @@ priavte static final String url="htps://localhost:8081/app";
 		SpringApplication.run(Application.class, args);
            int a =100;
 	}
+
+  //HIS-301 changesss
+   public void loadDateToCache()
+{
+   //logic here
+}
 
 }
