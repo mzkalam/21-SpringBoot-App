@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
+priavte static final String url="htps://localhost:8081/app";
+
 	public static void main(String[] args) {
 //changed here********************8
 
