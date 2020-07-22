@@ -12,4 +12,10 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
+  //HIS-301 changes
+   public void loadDateToCache()
+{
+   //logic here
+}
+
 }
